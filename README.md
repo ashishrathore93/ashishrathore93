@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ashishrathore93
+- 👋 Hi, I’m ashishrathore
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning B.tech (2nd year)
+- 🌱 I’m currently learning B.tech (3nd year)
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me software Engineering
 - 😄 Pronouns: ...
